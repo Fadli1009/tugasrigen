@@ -65,13 +65,7 @@ int main() {
 		cout<<"Jumlah Bayar: Rp.";
 		cin>>jumlahBayar;
 		cout<<endl;
-	}
-	
-	cout<<"Kembalian	: Rp." << jumlahBayar - totalHarga <<endl;
-	cout<<endl; 
-	cout<<"-----------------------------------------------------"<<endl;
-	cout<<"####	Terimakasih sudah berbelanja, datang kembali  ####"<<endl;
-	cout<<"-----------------------------------------------------"<<endl;\
+	}	
 	
 	return 0;
 }
